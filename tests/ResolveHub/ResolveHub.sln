@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolveHub.UnitTests", "ResolveHub.UnitTests\ResolveHub.UnitTests.csproj", "{D33E381B-396F-4B6B-A03B-B1135B11BF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolveHub.IntegrationTests", "ResolveHub.IntegrationTests\ResolveHub.IntegrationTests.csproj", "{53CB6A32-8545-4227-8B2F-A0158685580F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D33E381B-396F-4B6B-A03B-B1135B11BF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33E381B-396F-4B6B-A03B-B1135B11BF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33E381B-396F-4B6B-A03B-B1135B11BF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33E381B-396F-4B6B-A03B-B1135B11BF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CB6A32-8545-4227-8B2F-A0158685580F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CB6A32-8545-4227-8B2F-A0158685580F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CB6A32-8545-4227-8B2F-A0158685580F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CB6A32-8545-4227-8B2F-A0158685580F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E09668-AD99-4C1A-9CB8-8DB61EC96E2E}
+	EndGlobalSection
+EndGlobal
